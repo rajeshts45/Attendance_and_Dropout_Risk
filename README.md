@@ -42,6 +42,10 @@ Cleaned Excel dataset
 Power BI dashboard file
 Dashboard screenshot
 
+## Important Limitation
+
+Dropout risk indicators in this project are analytical indicators, not validated probabilities of actual dropout. Findings depend on the dataset and the rules used to calculate risk.
+
 ## Outcome
 
 The dashboard highlights key factors contributing to students dropout risk and helps identify high-risk student groups for early intervention.
