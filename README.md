@@ -50,5 +50,5 @@ The dashboard highlights key factors contributing to students dropout risk and h
 
 \## Dashboard Preview
 
-!\[Student Dropout Dashboard](screenshots/Dashboard\_Screenshot.png)
+!\[Student Dropout Dashboard](https://github.com/rajeshts45/Attendance_and_Dropout_Risk/blob/main/screenshots/Dashboard_Screenshot.png)
 
